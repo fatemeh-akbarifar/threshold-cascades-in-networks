@@ -1,0 +1,12 @@
+{
+  "checks": {
+    "hand_checks_passed": true
+  },
+  "primary_runs": 4050,
+  "sensitivity_runs": 2700,
+  "independent_graphs_per_family": 30,
+  "python": "3.9.13",
+  "numpy": "1.23.5",
+  "networkx": "2.8.8",
+  "source_sha256": "e29d7a220382421185d1166a26b94fe07695364461ce4a5de7a4e7ace41e90ba"
+}
